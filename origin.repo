@@ -1,5 +1,5 @@
-[centos-openshift-origin]
-name=CentOS OpenShift Origin
+[centos-openshift-origin-311]
+name=CentOS OpenShift Origin 3.11
 baseurl=http://mirror.centos.org/centos/7/paas/x86_64/openshift-origin311/
 enabled=1
 gpgcheck=0
